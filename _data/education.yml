@@ -1,10 +1,20 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
-  
+ 
 - course: Explorer Fellow
   institute: MLH Fellowship
-  dates: Fall 2020
+  dates: October 2020 - December 2020
   logo: fellowship.svg
-  
+
+- course: Data Science Fellowship
+  institute: Flatiron School
+  dates: August 2019 - December 2019
+  logo: flatironschool.png
+
+- course: Master of Science in Business Analytics
+  institute: Wake Forest University
+  dates: June 2016 - April 2017
+  logo: wakeforest.png
+
+- course: Bachelor of Arts in Mathematics and Economics
+  institute: University of North Carolina at Chapel Hill
+  dates: August 2010 - December 2014
+  logo: unc.png
