@@ -1,9 +1,7 @@
 title: "Aneesh Kodali"
 email: aneesh.kodali@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Aspiring software engineer with experience in working with data and translating problems into logic. As a data analyst, I spent most of my time preparing data for further analysis and consumption by stakeholders. Transitioning into software engineering allows me to continue applying my quantitative background towards creating processes that can improve and automate the data ingestion-to-insight journey for an organization. I hope to continue taking inputs and building out capabilities that can better a company’s product/service or insight into its operations.
 baseurl: "/" 
 url: "/portfolio-mlh" 
 github_username:  aneeshkodali
